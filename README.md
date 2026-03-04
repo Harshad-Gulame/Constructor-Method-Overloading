@@ -19,6 +19,7 @@ It simulates a basic Amazon shopping flow where products can be created and disp
 - Beginner-friendly OOP project
 
 ---
+---
 
 ## 🧠 OOP Concepts Used
 - Classes & Objects
@@ -34,4 +35,6 @@ It simulates a basic Amazon shopping flow where products can be created and disp
 - Console Application
 
 ---
+
+To Understand OOP`s Encapsulation concept
 
